@@ -1,0 +1,21 @@
+.toolbar{
+    background-color: #555555;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.tabbar{
+    background-color: #555555;
+}
+
+.title{
+    display: flex;
+    text-align: center;
+}
+
+.carousel{
+    height: 90%;
+    
+}
